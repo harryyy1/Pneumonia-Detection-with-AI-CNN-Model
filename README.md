@@ -23,6 +23,10 @@ This repository contains a Convolutional Neural Network (CNN) model built with P
 * imgaug: Used for data augmentation techniques.
 * wget: Used for downloading data from URLs within the notebook.
 
+# Improvements for the Future:
+* In the future, I'll work to expand  your dataset with a larger and more diverse set of chest X-ray images, as they can can significantly improve model performance. A diverse dataset can better capture the variations in image quality, demographics, and disease manifestations.
+* Investigate more complex CNN architectures or explore newer neural network architectures designed for medical image analysis, like U-Net for segmentation tasks.
+* Explore using pre-trained models with transfer learning from well-established architectures such as ResNet, Inception, or EfficientNet. Fine-tuning these models on the  pneumonia dataset can help improve accuracy.
 
 # Acknowledgments:
 Thank you to the Inspirit AI program for guiding me throughout this notebook. None of this could be done without their teachings and input. 
