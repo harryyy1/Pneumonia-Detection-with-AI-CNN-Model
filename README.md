@@ -29,4 +29,5 @@ This repository contains a Convolutional Neural Network (CNN) model built with P
 * Explore using pre-trained models with transfer learning from well-established architectures such as ResNet, Inception, or EfficientNet. Fine-tuning these models on the  pneumonia dataset can help improve accuracy.
 
 # Acknowledgments:
-Thank you to the Inspirit AI program for guiding me throughout this notebook. None of this could be done without their teachings and input. 
+* Thank you to the Inspirit AI program for guiding me throughout this notebook. None of this could be done without their teachings and input. 
+* Deep gratitude towards the developers of TensorFlow, Keras, and other open-source libraries used in this project.
