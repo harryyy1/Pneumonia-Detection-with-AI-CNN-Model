@@ -1,5 +1,5 @@
 # Pneumonia-Detection-with-AI-CNN-Model
-This repository contains a Convolutional Neural Network (CNN) model built with Python and Jupyter Notebook for the detection of pneumonia in medical images. Pneumonia is a serious respiratory infection, and early diagnosis is critical for effective treatment. This AI model can assist medical professionals in identifying pneumonia in chest X-ray images with high accuracy.
+This repository contains a Convolutional Neural Network (CNN) model built with Python and Jupyter Notebook for the detection of pneumonia in medical images. Pneumonia is a serious respiratory infection, and early diagnosis is critical for effective treatment. This AI model can assist medical professionals in identifying pneumonia in chest X-ray images with high accuracy. This model has a 82% accuracy. 
 
 Key Features:
 Utilizes deep learning techniques to analyze chest X-ray images.
